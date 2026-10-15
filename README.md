@@ -6,10 +6,10 @@
 
 ## 🎥 Project Demo Video
 
-[![Aasara Project Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Aasara Project Demo Video](https://raw.githubusercontent.com/Prarthanaurs/Aasara-hackurity-/main/public/aasara-logo.png)](https://drive.google.com/file/d/1RzTiurhQQqPMi__YwHQMe2ieAC08nza5/view?usp=sharing)
 
-> 📺 **Watch the Full Video Walkthrough**: [Click Here to Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-> *(Alternative: [Watch on Google Drive / Loom](https://drive.google.com/file/d/YOUR_DRIVE_LINK/view))*
+> 📺 **Watch the Full Video Walkthrough**: **[Click Here to Watch the Aasara Demo Video](https://drive.google.com/file/d/1RzTiurhQQqPMi__YwHQMe2ieAC08nza5/view?usp=sharing)**  
+> *(Hosted on Google Drive — accessible to anyone with the link)*
 
 ### ⏱️ Video Chapters & Walkthrough Timestamps:
 - **`0:00` - Introduction & The Elder Fraud Crisis**: Why seniors are vulnerable to modern UPI scams.
